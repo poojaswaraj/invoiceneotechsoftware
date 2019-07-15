@@ -1,0 +1,276 @@
+ /*Print Invoice css start here*/
+  .container, .row-data1
+            {
+                width: 100%;
+                height: auto;
+                float: left;
+                padding: 0%;
+                margin: 0;
+            }
+            .para
+            {
+                width: 100%;
+                height: auto;
+                float: left;
+                padding: 1%;
+                margin: 0;
+            }
+            .wrapper
+            {
+                width: 95%;
+                height: auto;
+                float: left;
+                padding: 0%;
+                margin: 0%;
+                border: 1px solid darkgray;
+            }
+            .block1
+            {
+                width: 100%;
+                height: auto;
+                float: left;
+                padding: 0%;
+                margin: 0; 
+                border: 1px solid darkgray;
+            }
+            .b-sub1, .b-sub2
+            {
+                width: 45%;
+                height: auto;
+                float: left;
+                padding: 1%;
+                margin: 0;
+            }
+            .b-sub2-1, .b-sub2-2
+            {
+                width: 100%;
+                height: auto;
+                float: left;
+                padding: 0%;
+                margin: 0;  
+            }
+            .bill-table
+            {
+                width: 100%;
+				min-height: 200px;
+				float: left;
+				padding: 0;
+				margin: 0;
+				border-bottom: 1px solid darkgrey;
+				height: auto;
+            }
+            .division
+            {
+                width: 45%;
+                height: auto;
+                float: left;
+                padding: 1%;
+                margin: 0.1% 0%;
+                border: 1px solid darkgrey;
+            }
+            .t-head
+            {
+                width: -webkit-fill-available;
+				height: 35px;
+				float: left;
+				padding: 12px 0px 0px 0px;
+				margin: 0;
+				text-align: center;
+				border-bottom: 1px solid darkgray;
+            }
+            .t-head-sub
+            {
+                width: -webkit-fill-available;
+                height: 25px;
+                float: left;
+                padding: 6% 2%;
+                margin: 0;
+                text-align: center;
+                border-bottom: 1px solid darkgray;
+            }
+            .t-head-1
+            {
+                width: -webkit-fill-available;
+                height: 50px;
+                float: left;
+                padding: 2% 0% 0% 0%;
+                margin: 0;
+                text-align: center;
+                border-bottom: 1px solid darkgray;
+            }
+            .t-data
+            {
+                width: -webkit-fill-available;
+                height: auto;
+                float: left;
+                padding: 2%;
+                margin: 0;
+                text-align: center;
+                
+            }
+            .t-data-1
+            {
+                width: 45%;
+                height: auto;
+                min-height: 138px;
+                float: left;
+                padding: 2%;
+                margin: 0;
+                text-align: center;
+                border-left: 1px solid darkgrey;
+                
+            }
+            .row-data
+            {
+                width: 16.66%;
+                height: auto;
+                float: left;
+                padding: 0;
+                margin: 0;
+            }
+            .row-data-1
+            {
+                width: 25%;
+                height: auto;
+                float: left;
+                padding: 0;
+                margin: 0;
+            }
+            .t-block
+            {
+                width: 100%;
+                height: auto;
+                float: left;
+                padding: 0%;
+                margin: 0;
+                border-right: 1px solid darkgray;
+            }
+            .blank, .fill
+            {
+               width: 16%;
+               height: auto;
+               float: left;
+               padding: 0%;
+               margin: 0; 
+               border: 1px solid transparent;
+            }
+            .blank1
+            {
+               width: 48%;
+               height: auto;
+               float: left;
+               padding: 0%;
+               margin: 0; 
+               border: 1px solid transparent;
+            }
+            .blank-1
+            {
+               width: 24%;
+               height: auto;
+               float: left;
+               padding: 0%;
+               margin: 0; 
+               border: 1px solid transparent;
+            }
+            .fill1
+            {
+               width: 25%;
+               height: auto;
+               float: left;
+               padding: 0%;
+               margin: 0; 
+               border: 1px solid transparent;
+            }
+            .amount
+            {
+                font-size: 15px;
+            }
+            .right
+            {
+                width: 100%;
+                text-align: right;
+                float: left;
+            }
+            .sub-tab
+            {
+                width: 45%;
+                padding: 2% 2%;
+                float: left;
+                border-left: 1px solid darkgrey;
+                border-top: 1px solid darkgrey;
+            }
+             .t-data-sub 
+            {
+                width: 100%;
+                padding: 0% 1%;
+                float: left;
+                text-align: center;
+            }
+            .blank1
+            {
+                width: 48%;
+                height: auto;
+                float: left;
+                padding: 0.5%;
+                margin: 0;
+                text-align: center;
+                border: 1px solid transparent;
+                border-left: 1px solid darkgrey;
+            }
+            .left-side, .right-side
+            {
+                width: 25%;
+                float: left;
+                padding: 0%;
+            }
+            .t-data-block
+            {
+                border: 0px solid darkgrey;
+                float: left;
+                width: 100%;
+                min-height: 235px;
+                height: auto;
+            }
+            .t-data-block1
+            {
+                border: 1px solid darkgrey;
+                float: left;
+                width: 100%;
+                min-height: 206px;
+                height: auto;
+            }
+            .t-data-blank1
+            {
+                width: 100%;
+                height: auto;
+                float: left;
+                padding: 0%;
+                margin: 0;
+                border-left: 1px solid darkgrey;
+            }
+            .logo
+            {
+                width: 40%;
+                height: auto;
+                float: left;
+                padding: 0;
+                margin: 0;
+            }
+            .sign
+            {
+                width: 100%;
+                height: auto;
+                float: left;
+                padding: 5% 0% 0% 0%;
+                margin: 0% 0%; 
+            }
+			.f-block
+			{
+				width:100%;
+				height:auto;
+				float:left;
+				padding:10px 0px;
+				margin:0;
+			}
+            
+ /*Print invoice css end */
